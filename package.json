@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "build": "npm install ",
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
